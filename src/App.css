@@ -1,0 +1,8 @@
+.home-App {
+  /* background-color: aliceblue; */
+  color: white;
+  display: flex;
+  flex-direction: row;
+  padding-left: 41px;
+  padding-right: 41px;
+}
